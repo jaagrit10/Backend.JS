@@ -1,0 +1,19 @@
+{
+  "name": "backend.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "types.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaagrit10/Backend.JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaagrit10/Backend.JS/issues"
+  },
+  "homepage": "https://github.com/jaagrit10/Backend.JS#readme"
+}
