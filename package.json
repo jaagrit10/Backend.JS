@@ -1,10 +1,10 @@
 {
-  "name": "backend.js",
+  "name": "nodejs",
   "version": "1.0.0",
-  "description": "",
   "main": "types.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/jaagrit10/Backend.JS/issues"
   },
-  "homepage": "https://github.com/jaagrit10/Backend.JS#readme"
+  "homepage": "https://github.com/jaagrit10/Backend.JS#readme",
+  "description": "",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
